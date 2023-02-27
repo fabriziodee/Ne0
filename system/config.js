@@ -1,7 +1,7 @@
 // Owner number
-global.owner = '6285221100126'
+global.owner = '393518398856'
 // Owner name
-global.owner_name = 'Wildan Izzudin'
+global.owner_name = 'SuperFabri'
 // Database name (Default: database)
 global.database = 'bot'
 // Maximum upload file size limit (Default : 100 MB)
